@@ -1,0 +1,9 @@
+Sensitivity (Recall) per class:
+COVID: 0.6740
+Normal: 0.9877
+Viral Pneumonia: 0.8178
+
+Specificity per class:
+COVID: 0.9913
+Normal: 0.7170
+Viral Pneumonia: 0.9967

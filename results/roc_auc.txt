@@ -1,0 +1,2 @@
+ROC-AUC (OvR) macro: 0.9765
+ROC-AUC (OvR) weighted: 0.9688
