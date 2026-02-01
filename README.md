@@ -35,7 +35,7 @@ Light, anatomy-preserving augmentations were applied during training:
 No aggressive geometric or contrast transformations were applied to prevent the model from learning non-clinical artifacts.
 
 ### Evaluation metrics
--Overall accuracy
+- Overall accuracy
 - **Class-wise precision, recall (sensitivity)** and **F1-score**
 - **Confusion matrix**
 - Multiclass **ROC-AUC (One-vs-Rest)** with macro and weighted averaging
